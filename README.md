@@ -2,10 +2,12 @@ Hi,
 I'm etiendemheavenly-fix/etiendemheavenly-fix
 Enterprise Application & Automation Engineer
 I design, build, and automate high-availability, production-ready enterprise applications. My focus is on writing resilient, scalable backend architectures, writing advanced Python and Bash shell scripting frameworks, managing distributed infrastructure as code, and engineering self-healing CI/CD pipelines that scale with organization needs.
+
 Architectural Core & Capabilities
 System Design & Topology: High-Throughput Microservices, Event-Driven Architecture (EDA), Domain-Driven Design (DDD), Distributed Systems, API Gateways.
 Infrastructure & Linux Automation: POSIX Bash Scripting, Python Automation Frameworks, GitOps Deployments, Infrastructure as Code (IaC), Zero-Downtime Blue/Green Deployments, Automated Rollbacks, Secret Management.
 Observability & Resiliency: Distributed Tracing, Centralized Logging Systems, Automated Circuit Breakers, Proactive Health-Checking / Self-Healing Pipelines.
+
 Production-Grade Tech Stack
 Category: Technologies & Tools
 Backend Core: Python (FastAPI, Flask, Django, Asyncio), Bash Shell Scripting (POSIX), Zsh, ShellCheck
@@ -13,14 +15,17 @@ Cloud & Platforms: AWS (EKS, S3, RDS, Lambda), Azure, GCP
 Orchestration & IaC: Kubernetes, Docker, Terraform, Ansible, Helm
 CI/CD Automation: GitHub Actions, Jenkins, GitLab CI, Azure Pipelines
 Data & Messaging: PostgreSQL, Redis, Elasticsearch, Kafka, RabbitMQ
+
 MLOps & AI Automation: Agentic AI workflows, LLM modules, Prompt Engineering, Model Deployment
 Highlighted Enterprise Blueprints (See Pinned Repos Below)
 Project 1: ray-spark-aviation — Production-Ready Microservice Template
 What it demonstrates: A clean-architecture Python boilerplate leveraging distributed tracing, production-grade security defaults, and integrated database migrations.
+
 Automation Focus: Features a fully productionized CI/CD workflow running Bash automation workflows that handle multi-stage optimization builds, linting, and dependency vulnerability scanning.
 Project 2: eagles-eye-aviation-ai — Multi-Environment Infrastructure-as-Code incorporating ai skills
 What it demonstrates: Modular, highly reusable configuration modules built to provision isolated staging and production cluster infrastructure automatically, augmented with Agentic AI logic.
 Automation Focus: Enforces automated compliance linter checks, automated state file management, and dry-run execution plans on pull requests via shell orchestration.
+
 Professional Metrics
 Currently Open To: Senior Enterprise Roles, Infrastructure Automation Contracts, Agentic AI and Modules/Models, & Architectural Consultations.
 How to reach me: https://www.linkedin.com/in/etiendem-ebesoh-3b4299237
